@@ -2,7 +2,6 @@
     "name": "echoverse",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://echo-verse-khuhi.io/audio_dairy_app",
     "dependencies": {
         "lucide-react": "^0.511.0",
         "react": "^18.2.0",
